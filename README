@@ -1,0 +1,4 @@
+The ColdNode skteches are compatible with ColdNode Rev.1 modules. The different sketches are:
+
+-Wake-Up_CallBack: A basestation transmits a wake-up packet to a receving node. The latter has it wake-up receiver in listening mode.
+Once a WuPt is received, the WuRx_Node wakes-up and sends back an acknowledgmeent. Then it goes back to sleep.
